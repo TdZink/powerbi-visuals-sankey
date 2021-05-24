@@ -54,7 +54,6 @@
     "karma-webpack": "4.0.2",
     "lodash-es": "4.17.15",
     "powerbi-models": "1.7.0",
-    "powerbi-visuals-api": "^3.4.0",
     "powerbi-visuals-tools": "^3.1.15",
     "powerbi-visuals-utils-colorutils": "^2.3.0",
     "powerbi-visuals-utils-dataviewutils": "^2.4.0",
